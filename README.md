@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a Computer Science student at the Federal University of Santa Catarina.<br>I currently work as a Quality Assurance in the Bridge laboratory.<br>My main qualities are being responsible, a quick learner, easy to work with, always striving to do things well, and available for feedback.<br>My focus is to be a good professional in all aspects, and to become a developer someday.
+- I am a Computer Science student at the Federal University of Santa Catarina.
+- I currently work as a Quality Assurance in the Bridge laboratory.
+- My main qualities are being responsible, a quick learner, easy to work with, always striving to do things well, and available for feedback.
+- My focus is to be a good professional in all aspects, and to become a developer someday.
 
 
 ## 🌐 Socials:
