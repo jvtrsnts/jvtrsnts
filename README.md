@@ -2,7 +2,7 @@
 - I am a Computer Science student at the Federal University of Santa Catarina.
 - I currently work as a Quality Assurance in the Bridge laboratory.
 - My main qualities are being responsible, a quick learner, easy to work with, always striving to do things well, and available for feedback.
-- My focus is to be a good professional in all aspects, and to become a developer someday.
+- My focus is to be a good professional in all aspects.
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-67733124b/)
